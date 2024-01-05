@@ -1,6 +1,6 @@
 # Hello, I'm Shakir! 👋
 
-I'm passionate aboutprogramming and love to learn and develop. Welcome to my GitHub profile!
+I'm passionate about programming and love to learn and develop. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
