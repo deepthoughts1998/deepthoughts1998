@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm Shakir! 👋
 
 I'm passionate aboutprogramming and love to learn and develop. Welcome to my GitHub profile!
@@ -26,7 +24,7 @@ Feel free to explore my repositories and reach out to collaborate or discuss any
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=deepthoughts1998&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthoughts1998&layout=compact&theme=dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthoughts1998&layout=compact&theme=dark)-->
 
 
 <!--
